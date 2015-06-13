@@ -136,9 +136,14 @@
 
 /*----------------------------- Google Map --------------------------*/
   $('#gmap').gmap3({
-    marker:{address:"Haltern am See, Weseler Str. 151", options:{icon: "img/location1.png"}},
+    marker:{
+        address:"Haltern am See, Weseler Str. 151",
+        options:{icon: "img/location1.png"},
+        latLng:[18.5203, 73.8567],
+    },
     map:{
         options:{
+        center:[18.5203, 73.8567],
         zoom: 14,
         scrollwheel: false
                 }

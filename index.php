@@ -137,10 +137,10 @@
 				        <li><a href="#resume" class="colapse-menu1">Resume</a></li>
 				        <li><a href="#service" class="colapse-menu1">Service</a></li>
 				        <li><a href="#skills" class="colapse-menu1">Skill</a></li>
-				        <li><a href="#portfolio" class="colapse-menu1">Works</a></li>
+				        <!--<li><a href="#portfolio" class="colapse-menu1">Works</a></li>
 				        <li><a href="#pricetable" class="colapse-menu1">Pricing</a></li>
-				        <li><a href="#blog" class="colapse-menu1">Blog</a></li>
-						<li><a href="#clients" class="colapse-menu1">Clients</a></li>
+				        <li><a href="#blog" class="colapse-menu1">Blog</a></li>-->
+						<li><a href="#clients" class="colapse-menu1">Testimonial</a></li>
 				        <li><a href="#contact" class="colapse-menu1">Contact</a></li>
                         <!--<li class="menu-item-has-children">
                             <a href="#">Extra</a>
@@ -406,7 +406,7 @@ issues. </p>
 					</div><!-- end .container -->
 				</section>
 <!-- Section : Resume end -->
-
+*/ ?>
 <!--Parallax Section -->
   	<div id="status" class="parallax" data-stellar-background-ratio="0.6" data-stellar-vertical-offset="20">
   		<div class="parallax-overlay-2">
@@ -429,7 +429,7 @@ issues. </p>
 							<div class="col-xs-6 col-sm-6 col-md-3 single">
 								<div class="total-numbers" data-perc="1300">
 									<div class="iconspace"><i class="cicon fa-briefcase"></i></div>
-									<span class="sum">550</span>
+									<span class="sum">7</span>
 									 Succesful Projects
 								</div><!-- end .total-numbers -->
 							</div><!-- end .col-xs-6 .col-sm-6 .col-md-3 .single -->
@@ -437,16 +437,16 @@ issues. </p>
 							<div class="col-xs-6 col-sm-6 col-md-3 single">
 								<div class="total-numbers" data-perc="1300">
 									<div class="iconspace"><i class="cicon fa-group"></i></div>
-									<span class="sum">212</span>
+									<span class="sum">7</span>
 									 Happy Clients
 								</div><!-- end .total-numbers -->
 							</div><!-- end .col-xs-6 .col-sm-6 .col-md-3 .single -->
 
 							<div class="col-xs-6 col-sm-6 col-md-3 single">
 								<div class="total-numbers" data-perc="1300">
-									<div class="iconspace"><i class="cicon fa-trophy"></i></div>
-									<span class="sum">99</span>
-									Awards Won
+									<div class="iconspace"><i class="cicon fa-code"></i></div>
+									<span class="sum">100000</span>
+									Lines of Code
 								</div><!-- end .total-numbers -->
 							</div><!-- end .col-xs-6 .col-sm-6 .col-md-3 .single -->
 
@@ -474,10 +474,10 @@ issues. </p>
 									<i class="service-icon fa-leaf"></i>
 									<div class="service-content">
 										<h3>Designing</h3>
-										<p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p>
+										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
 									</div>
 								</div><!-- end .service-box -->
-								<div class="service-box">
+								<!-- <div class="service-box">
 									<i class="service-icon fa-magic"></i>
 									<div class="service-content">
 										<h3>Branding</h3>
@@ -488,7 +488,7 @@ issues. </p>
 									<i class="service-icon fa-bar-chart-o"></i>
 									<div class="service-content">
 										<h3>Analytics</h3>
-										<p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p>
+										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
 									</div>
 								</div><!-- end .service-box -->
 							</div><!-- end .col-md-6 .left-service -->
@@ -499,10 +499,10 @@ issues. </p>
 									<i class="service-icon fa-flask"></i>
 									<div class="service-content">
 										<h3>Developing</h3>
-										<p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p>
+										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
 									</div>
 								</div><!-- end .service-box -->
-								<div class="service-box">
+								<!-- <div class="service-box">
 									<i class="service-icon fa-globe"></i>
 									<div class="service-content">
 										<h3>Marketing</h3>
@@ -513,7 +513,7 @@ issues. </p>
 									<i class="service-icon fa-anchor"></i>
 									<div class="service-content">
 										<h3>Support</h3>
-										<p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p>
+										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
 									</div>
 								</div><!-- end .service-box -->
 
@@ -536,66 +536,66 @@ issues. </p>
 						<div class="row">
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="87"><p>87<sup>%</sup></p></div>
+								<div class="chart" data-percent="70"><p>70<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>HTML5/CSS3</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>HTML/CSS</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="75"><p>75<sup>%</sup></p></div>
+								<div class="chart" data-percent="60"><p>60<sup>%</sup></p></div>
 								<div class="skills-content">
 									<h3>JAVASCRIPT</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="83"><p>83<sup>%</sup></p></div>
+								<div class="chart" data-percent="80"><p>80<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>WORDPRESS</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>Laravel</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="69"><p>69<sup>%</sup></p></div>
+								<div class="chart" data-percent="60"><p>60<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>JOOMLA</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>CakePHP</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="100"><p>100<sup>%</sup></p></div>
+								<div class="chart" data-percent="65"><p>65<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>PHOTOSHOP</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>Codeigniter</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="73"><p>73<sup>%</sup></p></div>
+								<div class="chart" data-percent="65"><p>65<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>ILLUSTRATOR</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>Mysql</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="85"><p>85<sup>%</sup></p></div>
+								<div class="chart" data-percent="50"><p>50<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>INDESIGN</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>MongoDB</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
 							<div class="col-xs-12 col-sm-6 col-md-3 chart-padding">
-								<div class="chart" data-percent="55"><p>55<sup>%</sup></p></div>
+								<div class="chart" data-percent="30"><p>30<sup>%</sup></p></div>
 								<div class="skills-content">
-									<h3>3D MAX</h3>
-									<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+									<h3>Magento</h3>
+									<!-- <p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> -->
 								</div><!-- end .skils-content -->
 							</div><!-- end .col-xs-12 .col-sm-6 .col-md-3 .chart-padding -->
 
@@ -674,6 +674,7 @@ issues. </p>
   		</div><!-- end .parallax-overlay-2 -->
  	</div>
 <!-- Parallax Section End -->
+<?php /*
 <!-- Section : Portfolio -->
 				<section id="portfolio" class="section">
 						<div class="container">
@@ -958,24 +959,9 @@ issues. </p>
 					</div><!-- end .container -->
 				</section>
 <!-- Section : Price Table end -->
+*/?>
 
-<!--Parallax Section -->
-  	<div id="hire" class="parallax" data-stellar-background-ratio="0.6" data-stellar-vertical-offset="20">
-  		<div class="parallax-overlay-2">
-  			<div class="container">
-  				<div class="row">
-  					<div class="col-md-12">
-					    <h1>I Love To Design &amp; Develop</h1>
-
-					    <a href="#contact" class="mt-button large hire-btn">Hire Me Now</a>
-  					</div><!-- end .col-md-12 -->
-				</div><!-- end .row -->
-  			</div><!-- end .container -->
-  		</div><!-- end .parallax-overlay-2 -->
- 	</div>
-<!-- Parallax Section End -->
-
-
+<?php /*
 <!-- Section : Blog -->
 				<section id="blog" class="section">
 					<div class="container">
@@ -1101,13 +1087,13 @@ issues. </p>
 				</section>
 <!-- Section : Blog end-->
 
-
+*/?>
 <!-- Section : clients -->
 				<section id="clients" class="section">
 					<div class="container">
 
 						<div class="section-title">
-							<h2>our Clients</h2>
+							<h2>Testimonial</h2>
 							<span class="border"></span>
 						</div><!-- end .section-title -->
 
@@ -1154,7 +1140,7 @@ issues. </p>
                         		</div><!-- end .row -->
 
 
-
+<?php /*
 						<div class="row">
 							<ul class="clients_logo">
 								<li class="col-xs-12 col-sm-4 col-md-3"><a href="#" ><img src="img/logo/client01.png" alt="logo" class="img-responsive"></a></li>
@@ -1163,8 +1149,24 @@ issues. </p>
 								<li class="col-xs-12 col-sm-4 col-md-3"><a href="#"><img src="img/logo/client04.png" alt="logo" class="img-responsive"></a></li>
 							</ul><!-- end .clients_logo -->
 						</div><!-- end .row -->
+*/?>
+                        <!--Parallax Section -->
+                        <div id="hire" class="parallax" data-stellar-background-ratio="0.6" data-stellar-vertical-offset="20">
+                            <div class="parallax-overlay-2">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <h1>I Love To Design &amp; Develop</h1>
 
-					</div><!-- end .container -->
+                                            <!--					    <a href="#contact" class="mt-button large hire-btn">Hire Me Now</a>-->
+                                        </div><!-- end .col-md-12 -->
+                                    </div><!-- end .row -->
+                                </div><!-- end .container -->
+                            </div><!-- end .parallax-overlay-2 -->
+                        </div>
+                        <!-- Parallax Section End -->
+
+                    </div><!-- end .container -->
 				</section>
 <!-- Section : Clients end-->
 
@@ -1198,13 +1200,14 @@ issues. </p>
 							<div class="col-md-6">
 								<h2>LET'S GET IN TOUCH</h2>
 								<ul class="get_in">
-									<li><i class="fa fa-envelope-o"></i><p>hello@metrothemes.me</p></li>
-									<li><i class="fa fa-phone"></i><p>+0123 456 789</p></li>
-									<li><i class="fa fa-map-marker"></i><p>21 Cool Street, Melbourne Victoria 3000 Australia</p></li>
-									<li><a href="#"><i class="fa fa-cloud-download"></i><p>Download Vcard</p></a></li>
+									<li><i class="fa fa-envelope-o"></i><p>sagar_acharya@live.in</p></li>
+									<li><i class="fa fa-phone"></i><p>on request</p></li>
+									<li><i class="fa fa-map-marker"></i><p>Pune India</p></li>
+<!--									<li><a href="#"><i class="fa fa-cloud-download"></i><p>Download Vcard</p></a></li>-->
 								</ul><!-- end .get_in -->
 							</div><!-- end .col-md-6 -->
-							<div class="col-md-6">
+							<?php /*
+                            <div class="col-md-6">
 								<h2>DROP ME A LINE</h2>
 								<!-- contact from -->
 								<form class="form" id="form" method="post" action="http://html.metrothemes.me/md-html/md-live/contact.php">
@@ -1220,7 +1223,7 @@ issues. </p>
 								<div class="mess center">
 								</div><!-- end .mess .center -->
 							</div><!-- end .col-md-6 -->
-
+                            */ ?>
 							<div id="gmap" class="gmap col-md-12">
 							</div><!-- end .gmap .col-md-12 -->
 
@@ -1228,7 +1231,7 @@ issues. </p>
 					</div><!-- end .container -->
 				</section>
 <!-- Section : Contact end -->
-
+<?php /*
 <!-- Footer -->
 			<footer>
 		        <div class="twitter-feed-section">
@@ -1429,7 +1432,7 @@ issues. </p>
 		        </div><!-- end .footer-bottom -->
 			</footer>
 <!-- Footer end -->
-
+*/ ?>
 <!--JavaScript-->
 <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="js/appear-min.js"></script>

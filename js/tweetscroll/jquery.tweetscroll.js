@@ -17,7 +17,7 @@
             visible_tweets: 2, //number of tweets to be visible
             speed: 600, // scroll animation speed
             delay: 3000, // delay between animations
-            username: 'envatowebdesign', //@username tweets to display. can be multiple usernames e.g. [philipbeel, vmrkela]
+            username: 'SaggyA', //@username tweets to display. can be multiple usernames e.g. [philipbeel, vmrkela]
             time: false, //display date
             replies: false, //filter out @replys
             date_format: 'style1',
@@ -228,7 +228,7 @@
         function timeAgo(dateString) {
             var rightNow = new Date();
             var then = new Date(dateString);
-            
+
             if ($.browser.msie) {
                 // IE can't parse these crazy Ruby dates
                 then = Date.parse(dateString.replace(/( \+)/, ' UTC$1'));
@@ -271,7 +271,7 @@
                 return "over a year ago";
             }
         }
-        
+
         function createHtml(data, tweetscrollOptions) {
             var $tweetList;
             var tweetMonth = '';
@@ -332,7 +332,7 @@
                 });
             }
 
-            //check how to open link, same page or in new window                
+            //check how to open link, same page or in new window
             if (tweetscrollOptions.url_new_window == true) {
                 $tweetList.find('a').each(function() {
                     $(this).attr({
