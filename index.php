@@ -74,7 +74,7 @@
 			<div class="container">
 				<div class="col-md-12">
 
-					<div class="logo-test" style="border-radius:0px;"><img src="img/pro_pic.JPG" style="height:150px;width:150px;" class="img-responsive" alt="logo"></div><!-- end .logo -->
+					<div class="logo-test" style="border-radius:0px;"><img src="img/pro_pic.JPG" style="height:150px;width:150px;" class="img-responsive img-circular" alt="logo"></div><!-- end .logo -->
 					<div class="info">
 						<h2>Sagar Acharya</h2>
 						<h3>Web Application Developer</h3>
@@ -123,7 +123,7 @@
                     </button>
                     <!-- Logo -->
                     <a href="#" class="header-logo">
-                        <img src="img/pro_pic.JPG" style="height:80px;width:80px;" alt="Logo">
+                        <img class="img-circular" src="img/pro_pic.JPG" style="height:80px;width:80px;" alt="Logo">
                     </a>
                     <!-- Logo -->
                 </div><!-- End .navbar-header -->
@@ -1209,11 +1209,11 @@ issues. </p>
 <!--									<li><a href="#"><i class="fa fa-cloud-download"></i><p>Download Vcard</p></a></li>-->
 								</ul><!-- end .get_in -->
 							</div><!-- end .col-md-6 -->
-							<?php /*
+                            <?php /*
                             <div class="col-md-6">
 								<h2>DROP ME A LINE</h2>
 								<!-- contact from -->
-								<form class="form" id="form" method="post" action="http://html.metrothemes.me/md-html/md-live/contact.php">
+								<form class="form" id="form" method="get" action="files/contact.php">
 										<input type="text" name="name"  placeholder="Name" required/>
 										<input type="text" name="email" placeholder="Email" required/>
 										<textarea name="message" placeholder="Message" rows="8" ></textarea>
@@ -1226,7 +1226,7 @@ issues. </p>
 								<div class="mess center">
 								</div><!-- end .mess .center -->
 							</div><!-- end .col-md-6 -->
-                            */ ?>
+                            */?>
 							<div id="gmap" class="gmap col-md-12">
 							</div><!-- end .gmap .col-md-12 -->
 
@@ -1457,6 +1457,7 @@ issues. </p>
 <script type="text/javascript" src="js/tweetscroll/jquery.tweetscroll.js"></script>
 <script type="text/javascript" src="js/smooth-scroll-min.js"></script>
 <script type="text/javascript" src="js/scripts.js"></script>
+<?php /*
 <script>
 
   var _gaq = _gaq || [];
@@ -1471,6 +1472,7 @@ issues. </p>
   })();
 
 </script>
+ */ ?>
 <!-- Scroll Top -->
   <a class="scroll-top" href="#" title="Scroll to top"><i class="fa-chevron-up"></i></a>
 </body>
