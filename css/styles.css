@@ -828,7 +828,7 @@ a.hire-btn:hover{
 /* 6 - Home
 ------------------------------------------------------------------------*/
 #home{
-    background: url('../img/home_img.jpg');
+    background: url('../img/workSpace.jpg');
     background-attachment: fixed !important;
     background-position: center center;
     background-repeat: no-repeat;
@@ -860,7 +860,18 @@ a.hire-btn:hover{
     cursor: default;
     margin: 0 auto;
 }
-
+.logo-test{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    cursor: default;
+    margin: 0 auto;
+}
+.img-circular{
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+}
 .info{
     text-align: center;
     margin-top: 50px;
