@@ -860,7 +860,13 @@ a.hire-btn:hover{
     cursor: default;
     margin: 0 auto;
 }
-
+.logo-test{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    cursor: default;
+    margin: 0 auto;
+}
 .info{
     text-align: center;
     margin-top: 50px;

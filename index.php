@@ -74,20 +74,20 @@
 			<div class="container">
 				<div class="col-md-12">
 
-					<div class="logo"><img src="img/logo.png" class="img-responsive" alt="logo"></div><!-- end .logo -->
+					<div class="logo-test" style="border-radius:0px;"><img src="img/pro_pic.JPG" style="height:150px;width:150px;" class="img-responsive" alt="logo"></div><!-- end .logo -->
 					<div class="info">
 						<h2>Sagar Acharya</h2>
 						<h3>Web Application Developer</h3>
 					</div><!-- end .info -->
 
 					<ul class="social">
-				         <li><a class="twitter" href="#"></a></li>
-				         <li><a class="facebook" href="#"></a></li>
-				         <li><a class="dribble" href="#"></a></li>
-				         <li><a class="vimeo" href="#"></a></li>
-				         <li><a class="linkedin" href="#"></a></li>
-				         <li><a class="github" href="#"></a></li>
-				         <li><a class="google" href="#"></a></li>
+				         <li><a class="twitter" href="https://www.twitter.com/SaggyA" target="_blank"></a></li>
+				         <li><a class="facebook" href="https://www.facebook.com/bladebrakers" target="_blank"></a></li>
+<!--				         <li><a class="dribble" href="#"></a></li>-->
+<!--				         <li><a class="vimeo" href="#"></a></li>-->
+				         <li><a class="linkedin" href="https://in.linkedin.com/in/imsagar" target="_blank"></a></li>
+				         <li><a class="github" href="https://github.com/sagarwoxi/" target="_blank"></a></li>
+<!--				         <li><a class="google" href="#"></a></li>-->
 				        <!--  <li><a class="behance" href="#"></a></li>
 				         <li><a class="forrst" href="#"></a></li>
 				         <li><a class="lastfm" href="#"></a></li> -->
@@ -123,7 +123,7 @@
                     </button>
                     <!-- Logo -->
                     <a href="#" class="header-logo">
-                        <img src="img/logo-2.png" alt="Logo">
+                        <img src="img/pro_pic.JPG" style="height:80px;width:80px;" alt="Logo">
                     </a>
                     <!-- Logo -->
                 </div><!-- End .navbar-header -->
@@ -176,12 +176,13 @@ technology and web applications. As someone who takes responsibility for my own 
 
 						<div class="row">
 							<div class="col-md-4">
-								<img src="img/pro_pic.png" alt="avater" class="img-responsive">
+								<img src="img/pro_pic.JPG" style="height:360;width:374px;" alt="avater" class="img-responsive">
 							</div><!-- end .col-md-4 -->
 							<div class="col-md-4">
 								<div class="about-info">
 									<div class="info-title">
 										<p>Birthdate</p>
+                                        <p>Skype</p>
 										<p>Phone</p>
 										<p>Email</p>
 										<p>website</p>
@@ -189,6 +190,7 @@ technology and web applications. As someone who takes responsibility for my own 
 									</div> <!-- end .info-title -->
 									<div class="info-details">
 										<p>: 28th January</p>
+                                        <p>: sagar.woxi</p>
 										<p>: On request</p>
 										<p>: sagar_acharya@live.in</p>
 										<p>: www.sagaracharya.com</p>
@@ -316,7 +318,7 @@ issues. </p>
 													<h4>Software Engineer</h4>
 												</div>
 												<div class="timeline-post-subtitle">
-													<p><span>WOXI</span><span class="timeline-duration">2014 - Current</span></p>
+													<p><a href="http://www.woxiprogrammers.com" target="_blank"><span><img src="img/logo/woxi.png" style="height:35px;width:80px" /></span></a><span class="timeline-duration">2014 - Current</span></p>
 												</div>
 												<div class="timeline-post-content">
 													<p>Responsible for working on a range of projects, designing appealing websites and interacting on a daily basis with graphic designers, back-end developers and DB designers. Participating in discussions with clients to clarify what they want. Developing prototypes for apps and websites. Provide guidance to other team members on web development
@@ -474,10 +476,10 @@ issues. </p>
 									<i class="service-icon fa-leaf"></i>
 									<div class="service-content">
 										<h3>Designing</h3>
-										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
+										 <p>Designs using Bootstrap, Foundation 5 CSS frameworks</p>
 									</div>
 								</div><!-- end .service-box -->
-								<!-- <div class="service-box">
+								 <!--<div class="service-box">
 									<i class="service-icon fa-magic"></i>
 									<div class="service-content">
 										<h3>Branding</h3>
@@ -488,7 +490,7 @@ issues. </p>
 									<i class="service-icon fa-bar-chart-o"></i>
 									<div class="service-content">
 										<h3>Analytics</h3>
-										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
+										 <p>Good understanding of google analytics and Mixpanel analytics tools</p>
 									</div>
 								</div><!-- end .service-box -->
 							</div><!-- end .col-md-6 .left-service -->
@@ -499,10 +501,10 @@ issues. </p>
 									<i class="service-icon fa-flask"></i>
 									<div class="service-content">
 										<h3>Developing</h3>
-										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
+										 <p>Development of project according PSR standards</p>
 									</div>
 								</div><!-- end .service-box -->
-								<!-- <div class="service-box">
+								 <!--<div class="service-box">
 									<i class="service-icon fa-globe"></i>
 									<div class="service-content">
 										<h3>Marketing</h3>
@@ -513,7 +515,7 @@ issues. </p>
 									<i class="service-icon fa-anchor"></i>
 									<div class="service-content">
 										<h3>Support</h3>
-										<!-- <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a</p> -->
+										 <p>24/7 Support using mail/phone/skype.</p>
 									</div>
 								</div><!-- end .service-box -->
 
@@ -1202,6 +1204,7 @@ issues. </p>
 								<ul class="get_in">
 									<li><i class="fa fa-envelope-o"></i><p>sagar_acharya@live.in</p></li>
 									<li><i class="fa fa-phone"></i><p>on request</p></li>
+                                    <li><i class="fa fa-skype"></i><p>sagar.woxi</p></li>
 									<li><i class="fa fa-map-marker"></i><p>Pune India</p></li>
 <!--									<li><a href="#"><i class="fa fa-cloud-download"></i><p>Download Vcard</p></a></li>-->
 								</ul><!-- end .get_in -->
